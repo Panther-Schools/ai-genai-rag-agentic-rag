@@ -1,5 +1,4 @@
-# ai-genai-rag-agentic-rag
-AI vs GEN AI vs RAG vs Agentic RAG
+# Traditional AI vs GEN AI vs RAG va Agentic RAG
 
 ## Traditional AI
 
@@ -63,8 +62,6 @@ AI vs GEN AI vs RAG vs Agentic RAG
 
 - **Supports Multi-Level Agent Reasoning**  
   - Can be extended to create intelligent agents that perform **reasoning-based actions** across multiple layers.
- 
-
 
 ## Use Cases  
 
